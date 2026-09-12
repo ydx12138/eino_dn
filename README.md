@@ -1,13 +1,12 @@
 Eino 学习练习
-记录我个人学习和练习 Eino 的代码仓库。
+## 记录我个人学习和练习 Eino 的代码仓库。
 
-什么是 Eino
+什么是 Eino?
 Eino 是字节跳动 CloudWeGo 团队开源的 Go 语言 LLM 应用开发框架，提供：
 组件抽象：ChatModel、Tool、Retriever、Embedding、Prompt 等
 编排能力：Chain（链式）、Graph（图）、Workflow（工作流）
 流式处理：原生支持 Stream 流式输入输出
 生态集成：对接 OpenAI、Ollama、Ark 等模型服务
-
 
 目录会随练习进度持续更新。
 
